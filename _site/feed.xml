@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Zihan's Notebook</title>
+    <description>My awesome description ? My god! Please guess who I am.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Sep 2016 21:08:47 +0800</pubDate>
-    <lastBuildDate>Wed, 28 Sep 2016 21:08:47 +0800</lastBuildDate>
+    <link>http://zihan.design/</link>
+    <atom:link href="http://zihan.design/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 29 Sep 2016 12:49:34 +0800</pubDate>
+    <lastBuildDate>Thu, 29 Sep 2016 12:49:34 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -19,8 +19,8 @@
 
 </description>
         <pubDate>Tue, 27 Sep 2016 23:39:40 +0800</pubDate>
-        <link>http://yourdomain.com/summer-has-gone</link>
-        <guid isPermaLink="true">http://yourdomain.com/summer-has-gone</guid>
+        <link>http://zihan.design/summer-has-gone</link>
+        <guid isPermaLink="true">http://zihan.design/summer-has-gone</guid>
         
         
       </item>
@@ -37,8 +37,8 @@
 
 </description>
         <pubDate>Mon, 19 Sep 2016 23:39:40 +0800</pubDate>
-        <link>http://yourdomain.com/one-world-one-dream</link>
-        <guid isPermaLink="true">http://yourdomain.com/one-world-one-dream</guid>
+        <link>http://zihan.design/one-world-one-dream</link>
+        <guid isPermaLink="true">http://zihan.design/one-world-one-dream</guid>
         
         
       </item>
@@ -52,8 +52,8 @@
 
 </description>
         <pubDate>Sat, 17 Sep 2016 23:39:40 +0800</pubDate>
-        <link>http://yourdomain.com/memorable-things</link>
-        <guid isPermaLink="true">http://yourdomain.com/memorable-things</guid>
+        <link>http://zihan.design/memorable-things</link>
+        <guid isPermaLink="true">http://zihan.design/memorable-things</guid>
         
         
       </item>
@@ -65,47 +65,8 @@
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Oct 2015 23:39:40 +0800</pubDate>
-        <link>http://yourdomain.com/2015/10/09/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/10/09/welcome-to-jekyll/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x600&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 08 Oct 2015 23:39:40 +0800</pubDate>
-        <link>http://yourdomain.com/2015/10/08/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/10/08/welcome-to-jekyll/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x600&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 07 Oct 2015 23:39:40 +0800</pubDate>
-        <link>http://yourdomain.com/2015/10/07/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/10/07/welcome-to-jekyll/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x600&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 06 Oct 2015 23:39:40 +0800</pubDate>
-        <link>http://yourdomain.com/2015/10/06/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/10/06/welcome-to-jekyll/</guid>
+        <link>http://zihan.design/2015/10/09/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://zihan.design/2015/10/09/welcome-to-jekyll/</guid>
         
         
       </item>
