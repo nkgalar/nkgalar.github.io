@@ -8,33 +8,27 @@
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
           <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+			<li>			
+            {% if site.email%}
+			<a href="mailto:{{ site.email }}"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+			{% endif %}
+
+			{% if site.weibo_name %}
+				<a href="http://www.weibo.com/{{ site.weibo_name }}"><i class="fa fa-weibo" aria-hidden="true"></i></a>
+			{% endif %}
+			{% if site.weichat_name %}
+				<a href="http://www.weichat.com/{{ site.wexin_name }}"><i class="fa fa-weixin" aria-hidden="true"></i></a>
+			{% endif %}
+			{% if site.github_username%}
+			<a href="http://www.github.com/{{ site.github_username }}"><i class="fa fa-github" aria-hidden="true"></i></a>
+			{% endif %}
+			</li>
         </ul>
       </div>
 
       <div class="footer-col  footer-col-2">
         <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            <a href="https://github.com/{{ site.github_username }}">
-				<i class="fa fa-camera-retro"></i> fa-camera-retro
-				<span class="fa fa-github">{{ site.github_username }}</span>
-            </a>
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            <a href="https://twitter.com/{{ site.twitter_username }}">
-              <span class="icon  icon--twitter">
-                <svg viewBox="0 0 16 16">
-                </svg>
-              </span>
-
-              <span class="username">{{ site.twitter_username }}</span>
-            </a>
-          </li>
-          {% endif %}
+			<li><img src="/assets/wechat.gif"></li>
         </ul>
       </div>
 
