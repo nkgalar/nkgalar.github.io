@@ -7,6 +7,9 @@ statement: > # this means to ignore newlines until "baseurl:"
   Please scan the QR code in Wechat to follow my subscription. Or you could leave me a short message through contact. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://zihan.design" # the base hostname & protocol for your site
+
+assets_url: "http://zihan.design/PUB/./public/database/zihan.design/assets"
+
 weibo_name: snakeshawn
 weichat_name: galars
 twitter_username: snakeshawn
